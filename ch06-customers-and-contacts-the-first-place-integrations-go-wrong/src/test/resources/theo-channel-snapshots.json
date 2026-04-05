@@ -1,0 +1,28 @@
+[
+  {
+    "sourceChannel": "storefront",
+    "customerExternalId": "customer_theo_tran",
+    "contactExternalId": "contact_theo_tran_primary",
+    "customerDisplayName": "Theo Tran",
+    "customerEmail": "theo@ai-pets.example",
+    "customerPhone": "+66-555-0101",
+    "contactFirstName": "Theo",
+    "contactLastName": "Tran",
+    "contactEmail": "theo@ai-pets.example",
+    "contactPhone": "+66-555-0101",
+    "contactRole": "Primary buyer"
+  },
+  {
+    "sourceChannel": "warranty_portal",
+    "customerExternalId": "customer_theo_tran",
+    "contactExternalId": "contact_theo_tran_primary",
+    "customerDisplayName": "THEO TRAN",
+    "customerEmail": "theo@ai-pets.example",
+    "customerPhone": "+66-555-0199",
+    "contactFirstName": "THEO",
+    "contactLastName": "TRAN",
+    "contactEmail": "theo@ai-pets.example",
+    "contactPhone": "+66-555-0199",
+    "contactRole": "Warranty owner"
+  }
+]

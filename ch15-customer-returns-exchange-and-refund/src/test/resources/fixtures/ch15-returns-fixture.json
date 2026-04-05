@@ -1,0 +1,42 @@
+{
+  "supportCaseExternalId": "case-theo-color-mismatch",
+  "customerExternalId": "customer-theo-tran",
+  "supportSubject": "Wrong color and too-chatty personality pack",
+  "supportPriority": "HIGH",
+  "supportAssignee": "mira-agent",
+  "originalSalesOrderExternalId": "so-theo-1001",
+  "originalFulfillmentExternalId": "if-theo-1001",
+  "originalOpenedComment": "Theo reports wrong color and overly chatty personality pack",
+  "caseOpenedAt": "2026-04-01T09:00:00Z",
+  "exchangeReturnAuthorizationExternalId": "ra-theo-1001-exchange",
+  "exchangeAuthorizedAt": "2026-04-01T09:15:00Z",
+  "exchangeReceivedAt": "2026-04-01T10:00:00Z",
+  "exchangeCompletedAt": "2026-04-01T10:20:00Z",
+  "exchangeSupportComment": "Approved exchange for the original Nimbus Cat shipment",
+  "exchangeReturnLine": {
+    "itemExternalId": "item-nimbus-cat-midnight-blue",
+    "quantity": 1,
+    "originalSalesOrderLineReference": "so-theo-1001-line-1",
+    "amount": "249.00",
+    "reason": "WRONG_COLOR"
+  },
+  "replacementSalesOrderExternalId": "so-theo-1001-r1",
+  "replacementFulfillmentExternalId": "if-theo-1001-r1",
+  "replacementDescription": "quiet-pack Nimbus Cat",
+  "finalReturnAuthorizationExternalId": "ra-theo-1001-final",
+  "finalAuthorizedAt": "2026-04-02T09:10:00Z",
+  "finalReceivedAt": "2026-04-02T10:00:00Z",
+  "finalCompletedAt": "2026-04-02T10:20:00Z",
+  "refundSupportComment": "Final refund approved after replacement still was not a fit",
+  "refundReturnLine": {
+    "itemExternalId": "item-nimbus-cat-quiet-pack",
+    "quantity": 1,
+    "originalSalesOrderLineReference": "so-theo-1001-r1-line-1",
+    "amount": "249.00",
+    "reason": "NOT_A_FIT"
+  },
+  "creditMemoExternalId": "cm-theo-1001-final",
+  "customerRefundExternalId": "refund-theo-1001-final",
+  "refundAmount": "249.00",
+  "refundResolutionComment": "Theo refunded and case resolved"
+}
