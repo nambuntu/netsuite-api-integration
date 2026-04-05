@@ -1,6 +1,6 @@
 # Designing NetSuite Integrations Code Index
 
-This repository contains the chapter-scoped Java example projects for the book Designing NetSuite Integrations (A practical guide to REST, SuiteQL, and workflow-first architecture). Each chapter module is intentionally self-contained, so readers can run one small workflow at a time without depending on a giant shared framework.
+This repository contains the chapter-scoped Java example projects for the book [Designing NetSuite Integrations](https://www.amazon.com/dp/B07HRDRZX2) (A practical guide to REST, SuiteQL, and workflow-first architecture). Each chapter module is intentionally self-contained, so readers can run one small workflow at a time without depending on a giant shared framework.
 
 The projects focus on business-shaped NetSuite integration lessons: stable external IDs, workflow-first modeling, separate read and write paths, and observable chapter-local demos that stay close to the manuscript.
 
